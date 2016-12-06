@@ -1,4 +1,4 @@
-# Redux 學習
+## Redux 學習
 
 步驟如./Client/...
 
@@ -8,5 +8,5 @@ First `npm install` to grab all the necessary dependencies.
 
 Then run `npm start` and open <localhost:7770> in your browser.
 
-### 資料參考 ＆＆ 包含影音教學 
+#### 資料參考 ＆＆ 包含影音教學 
 https://learnredux.com/
